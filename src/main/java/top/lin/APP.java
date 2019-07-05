@@ -12,6 +12,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class APP {
     public static void main(String[] args) {
+        //你好
         SpringApplication.run(APP.class, args);
     }
 

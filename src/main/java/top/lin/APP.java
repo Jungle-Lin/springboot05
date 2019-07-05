@@ -12,7 +12,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class APP {
     public static void main(String[] args) {
-        //你好
+        //你好  下载测试
         SpringApplication.run(APP.class, args);
     }
 
